@@ -18,8 +18,8 @@
 ---
 
 ### 📊 Estatísticas GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenzoFalconi&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenzoFalconi&layout=compact&theme=radical)
 
 ---
 
