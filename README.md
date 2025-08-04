@@ -18,7 +18,8 @@
 ---
 
 ### 📊 Estatísticas GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenzoFalconi&show_icons=true&theme=radical&count_private=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenzoFalconi&theme=tokyonight)
+<br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenzoFalconi&layout=compact&theme=radical)
 
 ---
@@ -26,3 +27,5 @@
 ### 🌐 Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/henzo-falconi-aaa70826a/)  
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/hzfalconi/)
+
+
