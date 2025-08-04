@@ -24,5 +24,5 @@
 ---
 
 ### 🌐 Conecte-se comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://linkedin.com/in/SEULINK)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/SEUINSTAGRAM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)]([https://linkedin.com/in/SEULINK](https://www.linkedin.com/in/henzo-falconi-aaa70826a/))
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)]([https://instagram.com/SEUINSTAGRAM](https://www.instagram.com/hzfalconi/))
