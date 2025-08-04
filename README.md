@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=header&text=Olá,%20eu%20sou%20Henzo%20Falconi!&fontSize=25&fontAlign=50&fontColor=ffffff" />
 
-<img align="right" alt="Henzo Avatar" height="250" src="https://raw.githubusercontent.com/HenzoFalconi/HenzoFalconii/refs/heads/main/image-removebg-preview (12).png" />
+<img align="right" alt="Henzo Avatar" height="250" src="https://raw.githubusercontent.com/HenzoFalconi/HenzoFalconii/refs/heads/main/image-removebg-preview (12).png" style="border-radius: 100%;" />
 
 ### 👨‍💻 Técnico em Desenvolvimento de Sistemas – SENAI Ipiranga
 
