@@ -1,10 +1,10 @@
 # Olá, eu sou Henzo Falconi! 👋
 
 🎓 **Técnico em desenvolvimento de sistemas** – SENAI Ipiranga  
-💻 Apaixonado por desenvolvimento e tecnologia.  
+💻 Apaixonado por desenvolvimento e tecnologia.  <img align="right" alt="Henzo Avatar" height="250" src="https://raw.githubusercontent.com/HenzoFalconi/HenzoFalconii/refs/heads/main/avataaars.png" />
 🚀 Explorando o mundo da programação com foco em Java e Python.  
 🎨 Curioso e com habilidades sobre design, usabilidade e performance.  
-🤖 Interessado em Inteligência Artificial, APIs e desenvolvimento mobile. <img align="right" alt="Henzo Avatar" height="250" src="https://raw.githubusercontent.com/HenzoFalconi/HenzoFalconii/refs/heads/main/avataaars.png" />
+🤖 Interessado em Inteligência Artificial, APIs e desenvolvimento mobile. 
 
 ---
 
