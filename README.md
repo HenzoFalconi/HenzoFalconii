@@ -1,31 +1,50 @@
-# Olá, eu sou Henzo Falconi! 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=header&text=Olá,%20eu%20sou%20Henzo%20Falconi!&fontSize=25&fontAlign=50&fontColor=ffffff" />
 
-🎓 **Técnico em desenvolvimento de sistemas** – SENAI Ipiranga  
-💻 Apaixonado por desenvolvimento e tecnologia.  <img align="right" alt="Henzo Avatar" height="250" src="https://raw.githubusercontent.com/HenzoFalconi/HenzoFalconii/refs/heads/main/avataaars.png" />
-🚀 Explorando o mundo da programação com foco em Java e Python.  
-🎨 Curioso e com habilidades sobre design, usabilidade e performance.  
-🤖 Interessado em Inteligência Artificial, APIs e desenvolvimento mobile. 
+<img align="right" alt="Henzo Avatar" height="250" src="https://raw.githubusercontent.com/HenzoFalconi/HenzoFalconii/refs/heads/main/avataaars.png" />
+
+### 👨‍💻 Técnico em Desenvolvimento de Sistemas – SENAI Ipiranga
+
+💻 Apaixonado por desenvolvimento e tecnologia.<br>
+🚀 Explorando o mundo da programação com foco em Java e Python.<br>
+🎨 Curioso e com habilidades sobre design, usabilidade e performance.<br>
+🤖 Interessado em Inteligência Artificial, APIs e desenvolvimento mobile.<br>
 
 ---
 
 ### 🛠 Tecnologias em aprendizado:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+</p>
 
 ---
 
 ### 📊 Estatísticas GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenzoFalconi&theme=tokyonight)
-<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenzoFalconi&layout=compact&theme=tokyonight)
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HenzoFalconi&show_icons=true&theme=dark&icon_color=ff4500&text_color=ffffff&title_color=ff6347&bg_color=00000000&hide_title=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenzoFalconi&layout=compact&theme=dark&text_color=ffffff&title_color=ff6347&bg_color=00000000&cache_seconds=10&cache=clear"/>
+</p>
 
 ---
 
 ### 🌐 Conecte-se comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/henzo-falconi-aaa70826a/)  
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/hzfalconi/)
 
+<p>
+  <a href="https://www.linkedin.com/in/henzo-falconi-aaa70826a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-B22222?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/hzfalconi/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-8B0000?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=8B0000&height=100"/>
+</p>
